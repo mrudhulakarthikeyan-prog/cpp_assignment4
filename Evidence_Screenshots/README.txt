@@ -1,0 +1,1 @@
+After running run_all.bat in your MSYS2/VS terminal, capture screenshots of each task output and place them here as Task01.png through Task06.png. Also capture the Task03 TODO output and Task04 AddressSanitizer output. Do not use placeholder screenshots.

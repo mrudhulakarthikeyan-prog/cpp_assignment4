@@ -1,0 +1,10 @@
+*.exe
+*.out
+*.o
+*.obj
+*.test
+Task04_asan
+asan_test
+asan_test.cpp
+Outputs/
+*_compile_errors.txt

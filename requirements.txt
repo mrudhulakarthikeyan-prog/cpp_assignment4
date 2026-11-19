@@ -1,0 +1,1 @@
+No external libraries required. C++17 standard library only.
